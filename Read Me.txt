@@ -1,0 +1,59 @@
++----------------------------------------------------------------------------------
+|				     Read Me    				  |
+-----------------------------------------------------------------------------------
+
+This readme file is the instruction guide for how to implement this project
+and the required environment settings. 
+
+
++----------------------------------------------------------------------------------
+|				   Prerequisites 				  |
+-----------------------------------------------------------------------------------
+
+-> Python 3.9 above
+-> Pycharm Community Edition 2023.2
+-> Spyder
+-> IDLE 3.9/3.11
+-> Stable internet connection.
+
+
++----------------------------------------------------------------------------------
+|				Installing packages				  |
+-----------------------------------------------------------------------------------
+
+-> pandas	: pip install pandas
+-> ultralytics  : pip install ultralytics
+-> cvzone	: pip install cvzone
+-> cv2		: pip install opencv-python
+
+
++----------------------------------------------------------------------------------
+|				 	Usage					  |
+-----------------------------------------------------------------------------------
+## Pycharm Environment setting
+-> Create a new project.
+-> Rename project for easy to access. eg: YoloObjectDetection.
+-> Install all the packages mentioned above.
+-> Add a file to project and name it main.py
+-> Place code from main.py to it.
+-> Add a file to project and name it tracker.py
+-> Place code from tracker.py to it.
+-> Add a file to project and name it coco.txt
+-> Place texts from coco.txt to it.
+-> Download the video file.
+Note: Make sure all file belongs in same directory
+
+## Results
+- People count in the video is detecting the foot trafic.
+
+## Contributors
+- Durgesh
+- Anurag Kujur
+- Shivam Kumar Jha
+
+## Contact
+For questions or support, please contact 
+Durgesh at durgesh_m210655ca@nitc.ac.in
+Anurag at anurag_m210691ca@nitc.ac.in
+Shivam Kumar Jha at shivam_m210702ca@nitc.ac.in
+
